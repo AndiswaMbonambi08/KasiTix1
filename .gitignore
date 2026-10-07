@@ -1,0 +1,20 @@
+@"
+# Build output
+bin/
+obj/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.user
+
+# Secrets and env
+.env
+.env.*
+appsettings.*.local.json
+
+# Logs and test output
+*.log
+TestResults/
+"@ | Set-Content .gitignore

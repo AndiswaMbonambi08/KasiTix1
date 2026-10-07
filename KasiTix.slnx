@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KasiTix.Api/KasiTix.Api.csproj" />
+    <Project Path="src/KasiTix.Domain/KasiTix.Domain.csproj" />
+    <Project Path="src/KasiTix.Infrastructure/KasiTix.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/KasiTix.Tests/KasiTix.Tests.csproj" />
+  </Folder>
+</Solution>
